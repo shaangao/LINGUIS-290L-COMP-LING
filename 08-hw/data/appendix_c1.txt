@@ -1,0 +1,717 @@
+A ayr 56.64
+
+A caw 54.43
+
+A ayr_chl 49.00
+
+A ayr_muy 46.82
+
+A cap 46.43
+
+A jqr 44.05
+
+A qul 43.78
+
+A quz 43.01
+
+A qvn_caj 26.62
+
+C teh 26.48
+
+A qwa 23.87
+
+ame 22.61
+
+A qvn_tar 22.53
+
+A qxn 21.24
+
+A ure 20.55
+
+A qub 19.97
+
+A qxw 19.32
+
+A qxl 18.30
+
+inj 16.69
+
+A quk 16.25
+
+A inb 16.16
+
+A quw 15.77
+
+quf 15.71
+
+A qvc 14.06
+
+A quy 12.83
+
+qvo 12.30
+
+qvs 11.42
+
+qus 10.64
+
+C ona_mtr 10.31
+
+C ona 10.02
+
+ccc 9.87
+
+A qvi 9.59
+
+mca 9.51
+
+A kuz 9.39
+
+C teh_tsh 9.18
+
+cht 7.30
+
+cbi 6.93
+
+vil 6.74
+
+C pue 6.21
+
+C yaw 5.79
+
+cag 5.72
+
+C alc_sth 5.69
+
+C alc_nth 5.47
+
+tob_tks 5.11
+
+kbh 5.03
+
+C alc_cnt 4.76
+
+mtp 3.61
+
+jeb 3.53
+
+lec 3.35
+
+C fun 3.20
+
+cpc 3.06
+
+cbu 2.99
+
+moc 1.97
+
+cpu 1.51
+
+arl 1.18
+
+tob_lng 0.54
+
+ycn 0.26
+
+bae 0.06
+
+cpb -0.29
+
+lul -0.31
+
+gae -0.97
+
+plg -1.10
+
+ign -1.41
+
+cav -1.56
+
+rey -1.85
+
+trn -1.91
+
+rgr -1.94
+
+bwi_cen -1.99
+
+cox -2.01
+
+pno -2.43
+
+anb -2.56
+
+zro -2.56
+
+crq -2.57
+
+gum -2.63
+
+myr -2.86
+
+dny -3.01
+
+mcb -3.35
+
+yvt -4.18
+
+aca -4.37
+
+tna -4.53
+
+omg -4.58
+
+kvn -4.73
+
+C kgp -4.90
+
+sya -5.33
+
+C arn -5.38
+
+aro -5.72
+
+cot -6.36
+
+C wap -6.80
+
+pbb -6.82
+
+ese_per -6.88
+
+cui -7.02
+
+kpc -7.03
+
+knt -7.17
+
+ywn -7.17
+
+bwi_rng -7.39
+
+kav -8.03
+
+shp -8.12
+
+C ter -8.15
+
+ese_bol -8.20
+
+pad -8.26
+
+yrl -8.32
+
+omc -8.56
+
+cni -8.56
+
+sha_ywn -8.58
+
+ktx -8.64
+
+C hix -8.78
+
+mzp -8.81
+
+cod -9.12
+
+not -9.24
+
+tit -9.28
+
+C tpy -9.70
+
+kbc -9.93
+
+mbn -10.26
+
+ito -10.38
+
+pid -10.39
+
+pbg -10.94
+
+mpq -11.49
+
+cul -11.93
+
+C wba -11.93
+
+brg -11.95
+
+pib -12.09
+
+guo -12.09
+
+C xir -12.30
+
+ura -12.45
+
+C pab -12.49
+
+kaq -12.54
+
+cbt -12.63
+
+C prr -12.66
+
+C waw -12.73
+
+C yag -12.77
+
+mcf -13.06
+
+sae -13.37
+
+prq -13.48
+
+iqu -13.51
+
+yuz -14.24
+
+boa -14.41
+
+trr -14.45
+
+C txi -14.53
+
+cbb -14.60
+
+C kzw_dzu -14.79
+
+C aap -14.80
+
+mpd -15.13
+
+tuf -15.14
+
+C arw -15.36
+
+cbr -15.53
+
+pcp -16.13
+
+axb -16.13
+
+pio -16.24
+
+jaa_jmm -16.51
+
+C aoc_tar -16.52
+
+srq -16.79
+
+cbv -17.12
+
+C car_ven -17.19
+
+C car_esr -17.19
+
+pav -17.21
+
+orw -17.51
+
+C myp -17.68
+
+xor -17.90
+
+yup_mac -18.86
+
+C pbh -19.21
+
+mbp -19.29
+
+C kbb -19.34
+
+C guc -19.57
+
+nuc -19.61
+
+chb -19.68
+
+yup_irp -19.72
+
+C yar -20.06
+
+jaa_jrw -20.28
+
+C mbc -20.30
+
+C guu -20.43
+
+cao -20.76
+
+arh -20.98
+
+C ake -21.01
+
+bmr -21.15
+
+jru -21.20
+
+cbd -21.76
+
+hto -22.36
+
+swx -22.83
+
+C aoc_are -23.14
+
+noj -23.17
+
+C wca -23.37
+
+umo -23.39
+
+mcg -23.45
+
+pev -23.45
+
+C bor -23.52
+
+C car_frg -23.55
+
+C atr -24.28
+
+C mch -24.66
+
+yui -24.71
+
+des -24.93
+
+cub -25.20
+
+ore -26.22
+
+huu -26.28
+
+acu -26.68
+
+C tri -26.73
+
+unk -27.48
+
+C asu -27.50
+
+tav -27.52
+
+tae -27.72
+
+mts -27.81
+
+jiv -27.89
+
+bsn -28.21
+
+pyn -28.59
+
+C ako -28.68
+
+C pak -28.96
+
+cbs -29.47
+
+C way -29.54
+
+psx -30.49
+
+adc -30.65
+
+mcd -30.70
+
+agr -31.13
+
+yme -31.18
+
+hub -31.90
+
+C gub -32.77
+
+ltn -33.03
+
+C tqb -33.41
+
+boa_mrn -33.60
+
+kwi -34.37
+
+C xiy -35.01
+
+yaa -35.28
+
+tba -35.30
+
+slc -35.34
+
+C gvp -36.56
+
+wmd -36.69
+
+amc -36.79
+
+gta -36.90
+
+con -36.96
+
+C mmh -37.22
+
+ash -37.28
+
+gqn -38.18
+
+nab_kth -38.80
+
+C wau -38.90
+
+ayo -38.91
+
+cto -40.18
+
+C plu -41.24
+
+cof -42.73
+
+oca -43.62
+
+bdc -44.02
+
+C jur -44.26
+
+C mav -45.22
+
+C guh -45.27
+
+C sru -45.48
+
+C api -45.76
+
+C kpj -46.09
+
+skf -46.43
+
+jbt -46.58
+
+cmi -47.42
+
+yuq -47.56
+
+C awt -47.63
+
+pui -47.63
+
+auc -47.90
+
+emp -47.95
+
+C kui -48.03
+
+mpu -48.63
+
+tnc -49.11
+
+ano -49.16
+
+kxo -49.68
+
+inp -49.89
+
+C tpn -49.91
+
+C kyr -49.99
+
+cax -50.20
+
+kog -51.20
+
+gvc -52.05
+
+C yae -52.05
+
+C bkq_wst -52.31
+
+tpr -52.62
+
+noa -52.79
+
+C apy -52.83
+
+C xet -52.83
+
+gyr -52.90
+
+mbr -52.93
+
+irn -52.97
+
+gvo -53.33
+
+yad -53.44
+
+C avv -53.45
+
+C xsu -53.56
+
+xwa -53.68
+
+C xav -53.72
+
+C awe -53.76
+
+C zkp -53.83
+
+aqz -53.85
+
+C urb -54.03
+
+C taf -54.08
+
+coe -54.12
+
+cas_cov -54.18
+
+C opy -54.20
+
+C myu -54.21
+
+C mbl -54.33
+
+tuo -54.60
+
+gui_chn -54.70
+
+C oym_jri -55.42
+
+gug -55.44
+
+cbg -55.50
+
+axg -55.75
+
+cyb -55.88
+
+C kqq -56.55
+
+arr -56.60
+
+C pta -56.70
+
+C kyz -56.88
+
+tpj -57.16
+
+C pto -57.20
+
+mot -57.20
+
+tca -57.29
+
+C guq -57.35
+
+C gvj -57.36
+
+snn -57.38
+
+amr -57.50
+
+C asn -57.56
+
+C bkq_est -57.59
+
+nhd -57.66
+
+C xri -57.79
+
+apu -57.85
+
+gui_izo -58.25
+
+C gun -58.38
+
+ceg -58.91
+
+cbc -58.93
+
+sri -58.93
+
+tue -58.93
+
+C kay -59.34
+
+C xer -59.60
+
+jua -59.66
+
+myy -59.84
+
+ark -59.87
+
+kwa -60.01
+
+sey -60.27
+
+C kgk -60.50
+
+C ram -60.83
+
+C suy -61.45
+
+sja -61.54
+
+bao -61.74
+
+mbj -61.78
+
+C rkb -61.88
+
+adw -61.92
+
+pah -61.92
+
+urz -61.92
+
+pir -62.13
+
+C oym_amp -62.45
+
+cas_msa -62.59
+
+cas_tsi -62.59
+
+C yau -63.36
+
+C apn -63.54
+
+ktn -64.60
+
+jup -64.99
+
+C yrm_pac -65.21
+
+C suy_tap -65.29
+
+C txu -65.38
+
+C eme -66.96
+
+C shb -67.99
+
+C xra -68.02
+
+C kre -69.16
+
+C qpt -70.17
+
+wyr -70.53
+
+yab -70.90
+
+C xok -77.43
+
+C wca_yma -82.81
+
+C wca_yae -82.81
+
+C guu_ven -82.81
+
+C xsu_kol -83.10
+
+C guu_par -84.53

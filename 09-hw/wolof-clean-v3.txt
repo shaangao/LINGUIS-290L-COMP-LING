@@ -1,0 +1,266 @@
+# Tableaux for Wolof tongue-root grammar described in Boersma (1999),
+# which includes five constraints:
+# 
+# 1. *RtrHi : High vowels must not have a retracted tongue root (rtr).
+# 2. *AtrLo : Low vowels must not have an advanced tongue root (atr).
+# 3. Parse[Rtr]: If an input segment is [rtr], it must be realized as [rtr] in the output.
+# 4. Parse[Atr]: If an input segment is [atr], it must be realized as [atr] in the output.
+# 5. *Gesture[Contour]: Do not change from [rtr] to [atr], or vice versa, within a word.
+# 
+# 
+# NB: oddly, i had to enter winning output form by hand.
+# and i am assuming all lists have first element with index 0, not 1.  
+# 
+# 36 tableaux
+input [0]: "iti" 4
+   winner: 0
+   candidate [0]: "iti" 0 0 0 0 0
+   candidate [1]: "ɪti" 1 0 0 1 1
+   candidate [2]: "itɪ" 1 0 0 1 1
+   candidate [3]: "ɪtɪ" 2 0 0 2 0
+   end of tableau
+input [1]: "ite" 4
+   winner: 0
+   candidate [0]: "ite" 0 0 0 0 0
+   candidate [1]: "ɪte" 1 0 0 1 1
+   candidate [2]: "itɛ" 0 0 0 1 1
+   candidate [3]: "ɪtɛ" 1 0 0 2 0
+   end of tableau
+input [2]: "itə" 4
+   winner: 0
+   candidate [0]: "itə" 0 1 0 0 0
+   candidate [1]: "ɪtə" 1 1 0 1 1
+   candidate [2]: "ita" 0 0 0 1 1
+   candidate [3]: "ɪta" 1 0 0 2 0
+   end of tableau
+input [3]: "itɪ" 4
+   winner: 2
+   candidate [0]: "itɪ" 1 0 0 0 1
+   candidate [1]: "ɪtɪ" 2 0 0 1 0
+   candidate [2]: "iti" 0 0 1 0 0
+   candidate [3]: "ɪti" 1 0 1 1 1
+   end of tableau
+input [4]: "itɛ" 4
+   winner: 0
+   candidate [0]: "itɛ" 0 0 0 0 1
+   candidate [1]: "ɪtɛ" 1 0 0 1 0
+   candidate [2]: "ite" 0 0 1 0 0
+   candidate [3]: "ɪte" 1 0 1 1 1
+   end of tableau
+input [5]: "ita" 4
+   winner: 0
+   candidate [0]: "ita" 0 0 0 0 1
+   candidate [1]: "ɪta" 1 0 0 1 0
+   candidate [2]: "itə" 0 1 1 0 0
+   candidate [3]: "ɪtə" 1 1 1 1 1
+   end of tableau
+input [6]: "eti" 4
+   winner: 0
+   candidate [0]: "eti" 0 0 0 0 0
+   candidate [1]: "ɛti" 0 0 0 1 1
+   candidate [2]: "etɪ" 1 0 0 1 1
+   candidate [3]: "ɛtɪ" 1 0 0 2 0
+   end of tableau
+input [7]: "ete" 4
+   winner: 0
+   candidate [0]: "ete" 0 0 0 0 0
+   candidate [1]: "ɛte" 0 0 0 1 1
+   candidate [2]: "etɛ" 0 0 0 1 1
+   candidate [3]: "ɛtɛ" 0 0 0 2 0
+   end of tableau
+input [8]: "etə" 4
+   winner: 0
+   candidate [0]: "etə" 0 1 0 0 0
+   candidate [1]: "ɛtə" 0 1 0 1 1
+   candidate [2]: "eta" 0 0 0 1 1
+   candidate [3]: "ɛta" 0 0 0 2 0
+   end of tableau
+input [9]: "etɪ" 4
+   winner: 2
+   candidate [0]: "etɪ" 1 0 0 0 1
+   candidate [1]: "ɛtɪ" 1 0 0 1 0
+   candidate [2]: "eti" 0 0 1 0 0
+   candidate [3]: "ɛti" 0 0 1 1 1
+   end of tableau
+input [10]: "etɛ" 4
+   winner: 1
+   candidate [0]: "etɛ" 0 0 0 0 1
+   candidate [1]: "ɛtɛ" 0 0 0 1 0
+   candidate [2]: "ete" 0 0 1 0 0
+   candidate [3]: "ɛte" 0 0 1 1 1
+   end of tableau
+input [11]: "eta" 4
+   winner: 1
+   candidate [0]: "eta" 0 0 0 0 1
+   candidate [1]: "ɛta" 0 0 0 1 0
+   candidate [2]: "etə" 0 1 1 0 0
+   candidate [3]: "ɛtə" 0 1 1 1 1
+   end of tableau
+input [12]: "əti" 4
+   winner: 0
+   candidate [0]: "əti" 0 1 0 0 0
+   candidate [1]: "ati" 0 0 0 1 1
+   candidate [2]: "ətɪ" 1 1 0 1 1
+   candidate [3]: "atɪ" 1 0 0 2 0
+   end of tableau
+input [13]: "əte" 4
+   winner: 0
+   candidate [0]: "əte" 0 1 0 0 0
+   candidate [1]: "ate" 0 0 0 1 1
+   candidate [2]: "ətɛ" 0 1 0 1 1
+   candidate [3]: "atɛ" 0 0 0 2 0
+   end of tableau
+input [14]: "ətə" 4
+   winner: 0
+   candidate [0]: "ətə" 0 2 0 0 0
+   candidate [1]: "atə" 0 1 0 1 1
+   candidate [2]: "əta" 0 1 0 1 1
+   candidate [3]: "ata" 0 0 0 2 0
+   end of tableau
+input [15]: "ətɪ" 4
+   winner: 2
+   candidate [0]: "ətɪ" 1 1 0 0 1
+   candidate [1]: "atɪ" 1 0 0 1 0
+   candidate [2]: "əti" 0 1 1 0 0
+   candidate [3]: "ati" 0 0 1 1 1
+   end of tableau
+input [16]: "ətɛ" 4
+   winner: 1
+   candidate [0]: "ətɛ" 0 1 0 0 1
+   candidate [1]: "atɛ" 0 0 0 1 0
+   candidate [2]: "əte" 0 1 1 0 0
+   candidate [3]: "ate" 0 0 1 1 1
+   end of tableau
+input [17]: "əta" 4
+   winner: 1
+   candidate [0]: "əta" 0 1 0 0 1
+   candidate [1]: "ata" 0 0 0 1 0
+   candidate [2]: "ətə" 0 2 1 0 0
+   candidate [3]: "atə" 0 1 1 1 1
+   end of tableau
+input [18]: "ɪti" 4
+   winner: 1
+   candidate [0]: "ɪti" 1 0 0 0 1
+   candidate [1]: "iti" 0 0 1 0 0
+   candidate [2]: "ɪtɪ" 2 0 0 1 0
+   candidate [3]: "itɪ" 1 0 1 1 1
+   end of tableau
+input [19]: "ɪte" 4
+   winner: 1
+   candidate [0]: "ɪte" 1 0 0 0 1
+   candidate [1]: "ite" 0 0 1 0 0
+   candidate [2]: "ɪtɛ" 1 0 0 1 0
+   candidate [3]: "itɛ" 0 0 1 1 1
+   end of tableau
+input [20]: "ɪtə" 4
+   winner: 1
+   candidate [0]: "ɪtə" 1 1 0 0 1
+   candidate [1]: "itə" 0 1 1 0 0
+   candidate [2]: "ɪta" 1 0 0 1 0
+   candidate [3]: "ita" 0 0 1 1 1
+   end of tableau
+input [21]: "ɪtɪ" 4
+   winner: 3
+   candidate [0]: "ɪtɪ" 2 0 0 0 0
+   candidate [1]: "itɪ" 1 0 1 0 1
+   candidate [2]: "ɪti" 1 0 1 0 1
+   candidate [3]: "iti" 0 0 2 0 0
+   end of tableau
+input [22]: "ɪtɛ" 4
+   winner: 1
+   candidate [0]: "ɪtɛ" 1 0 0 0 0
+   candidate [1]: "itɛ" 0 0 1 0 1
+   candidate [2]: "ɪte" 1 0 1 0 1
+   candidate [3]: "ite" 0 0 2 0 0
+   end of tableau
+input [23]: "ɪta" 4
+   winner: 1
+   candidate [0]: "ɪta" 1 0 0 0 0
+   candidate [1]: "ita" 0 0 1 0 1
+   candidate [2]: "ɪtə" 1 1 1 0 1
+   candidate [3]: "itə" 0 1 2 0 0
+   end of tableau
+input [24]: "ɛti" 4
+   winner: 0
+   candidate [0]: "ɛti" 0 0 0 0 1
+   candidate [1]: "eti" 0 0 1 0 0
+   candidate [2]: "ɛtɪ" 1 0 0 1 0
+   candidate [3]: "etɪ" 1 0 1 1 1
+   end of tableau
+input [25]: "ɛte" 4
+   winner: 2
+   candidate [0]: "ɛte" 0 0 0 0 1
+   candidate [1]: "ete" 0 0 1 0 0
+   candidate [2]: "ɛtɛ" 0 0 0 1 0
+   candidate [3]: "etɛ" 0 0 1 1 1
+   end of tableau
+input [26]: "ɛtə" 4
+   winner: 2
+   candidate [0]: "ɛtə" 0 1 0 0 1
+   candidate [1]: "etə" 0 1 1 0 0
+   candidate [2]: "ɛta" 0 0 0 1 0
+   candidate [3]: "eta" 0 0 1 1 1
+   end of tableau
+input [27]: "ɛtɪ" 4
+   winner: 2
+   candidate [0]: "ɛtɪ" 1 0 0 0 0
+   candidate [1]: "etɪ" 1 0 1 0 1
+   candidate [2]: "ɛti" 0 0 1 0 1
+   candidate [3]: "eti" 0 0 2 0 0
+   end of tableau
+input [28]: "ɛtɛ" 4
+   winner: 0
+   candidate [0]: "ɛtɛ" 0 0 0 0 0
+   candidate [1]: "etɛ" 0 0 1 0 1
+   candidate [2]: "ɛte" 0 0 1 0 1
+   candidate [3]: "ete" 0 0 2 0 0
+   end of tableau
+input [29]: "ɛta" 4
+   winner: 0
+   candidate [0]: "ɛta" 0 0 0 0 0
+   candidate [1]: "eta" 0 0 1 0 1
+   candidate [2]: "ɛtə" 0 1 1 0 1
+   candidate [3]: "etə" 0 1 2 0 0
+   end of tableau
+input [30]: "ati" 4
+   winner: 0
+   candidate [0]: "ati" 0 0 0 0 1
+   candidate [1]: "əti" 0 1 1 0 0
+   candidate [2]: "atɪ" 1 0 0 1 0
+   candidate [3]: "ətɪ" 1 1 1 1 1
+   end of tableau
+input [31]: "ate" 4
+   winner: 2
+   candidate [0]: "ate" 0 0 0 0 1
+   candidate [1]: "əte" 0 1 1 0 0
+   candidate [2]: "atɛ" 0 0 0 1 0
+   candidate [3]: "ətɛ" 0 1 1 1 1
+   end of tableau
+input [32]: "atə" 4
+   winner: 2
+   candidate [0]: "atə" 0 1 0 0 1
+   candidate [1]: "ətə" 0 2 1 0 0
+   candidate [2]: "ata" 0 0 0 1 0
+   candidate [3]: "əta" 0 1 1 1 1
+   end of tableau
+input [33]: "atɪ" 4
+   winner: 2
+   candidate [0]: "atɪ" 1 0 0 0 0
+   candidate [1]: "ətɪ" 1 1 1 0 1
+   candidate [2]: "ati" 0 0 1 0 1
+   candidate [3]: "əti" 0 1 2 0 0
+   end of tableau
+input [34]: "atɛ" 4
+   winner: 0
+   candidate [0]: "atɛ" 0 0 0 0 0
+   candidate [1]: "ətɛ" 0 1 1 0 1
+   candidate [2]: "ate" 0 0 1 0 1
+   candidate [3]: "əte" 0 1 2 0 0
+   end of tableau
+input [35]: "ata" 4
+   winner: 0
+   candidate [0]: "ata" 0 0 0 0 0
+   candidate [1]: "əta" 0 1 1 0 1
+   candidate [2]: "atə" 0 1 1 0 1
+   candidate [3]: "ətə" 0 2 2 0 0
+   end of tableau
